@@ -53,10 +53,10 @@ main {
   width: 50%;
 }
 
-.par {
+.paragraph {
   height: 300px;
-  overflow: auto;
-  margin-bottom: 17px;
+  float: left;
+  margin-bottom: 20;
 }
 .h1 {
   font-size: xx-large;
