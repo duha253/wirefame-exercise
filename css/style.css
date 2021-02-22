@@ -46,9 +46,7 @@ margin-bottom: 30px;
   margin-left: 0;
  }
  
- #lastImg {
-  margin-right: 0;
- }
+
  
  section{
   margin-top: 30px;
@@ -56,6 +54,17 @@ margin-bottom: 30px;
   margin-right: auto;
   height: 430px;
  }
+
+ /*.div1 p {
+ position: fixed;
+top: 700px;
+left: 900px;
+bottom: 50px;
+margin: 50px;
+padding: 10px;
+width: 50%;
+font-size: 50px;
+}*/
  
  section img {
   float: left;
@@ -72,13 +81,7 @@ margin-bottom: 30px;
   height: 400px;;
  }
  
- .h1 p {
-  height: 320px;
- float: right;
-  font-size: 18px;
-  font-style: italic;
-  line-height: 24px;
- }
+
  h2 {
   font-size: 20px;
   margin-bottom: 10px;
